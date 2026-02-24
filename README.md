@@ -40,6 +40,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,firebase" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-sebz/Allan-sebz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ### ⚙️ Backend & Tools
 - FastAPI
