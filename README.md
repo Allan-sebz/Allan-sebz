@@ -61,13 +61,7 @@
 
 ---
 
-### 🚨 Smart IoT Alert System
-> Smoke detection + distance monitoring with real-time alerts.
-- Buzzer + Servo automation
-- LCD status display
-- Cloud-based notifications
 
----
 
 ## 📊 GitHub Stats
 
