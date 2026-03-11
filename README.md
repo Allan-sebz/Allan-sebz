@@ -76,7 +76,7 @@
 ---
 
 ### 🔐 Secure Login & Authentication System
-> Backend-based authentication system with encryption & JSON storage.
+> Backend authentication system with encryption & JSON storage.
 - User registration & login
 - Password hashing
 - Structured backend architecture
@@ -114,7 +114,7 @@
 - Designing scalable backend systems
 - Strengthening cybersecurity foundations
 - Building real-world IoT automation systems
-- Contributing to open-source projects
+- Contributing to open source projects
 
 ---
 ## 📫 Connect With Me
