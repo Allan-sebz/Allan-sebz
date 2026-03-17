@@ -173,10 +173,9 @@
 ## 🎯 Current Focus
 
 - Designing scalable backend systems
+- Contributing to open source projects
 - Strengthening cybersecurity foundations
 - Building real-world IoT automation systems
-- Contributing to open source projects
-
 ---
 ## 📫 Connect With Me
 
