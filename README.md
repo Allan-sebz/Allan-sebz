@@ -111,7 +111,7 @@
 - FastAPI
 - Node.js
 - MySQL
-- Git & GitHub
+- GitHub
 - REST APIs
 - JSON based storage systems
 
