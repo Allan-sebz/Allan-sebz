@@ -111,14 +111,14 @@
 - FastAPI
 - Node.js
 - MySQL
-- GitHub
+- Git & GitHub
 - REST APIs
 - JSON based storage systems
 
 ### 🔌 IoT & Hardware
 - Arduino
-- NodeMCU (ESP8266)
-- Sensors (Smoke, LDR, Ultrasonic)
+- NodeMCU 
+- Sensors 
 - Servo Motors
 - LCD Displays
 - Blynk IoT Platform
