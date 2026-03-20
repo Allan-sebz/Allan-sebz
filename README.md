@@ -13,7 +13,7 @@
 - 🌍 Building solutions which are focused on **Edge Computing & Smart Systems**
 - 🔌 Love working with> **IoT (Arduino, NodeMCU, Sensors, Automation), Wordpress**
 - 🗄️ Experienced with> **Database Systems (MySQL, JSON storage)**
-- 🌱 Currently improving my skills in **FastAPI, System Architecture & Secure Authentication**
+- 🌱 Currently improving my skills in> **FastAPI, System Architecture & Secure Authentication**
 - ✈️ I love traveling and exploring new ideas
 
 ---
