@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 💻 Passionate about> **Software development Development & System Design**
-- 🔐 Interested in> **Cybersecurity & Threat Intelligence**
+- 🔐 Interested in **Cybersecurity & Threat Intelligence**
 - 🌍 Building solutions which are focused on **Edge Computing & Smart Systems**
 - 🔌 Love working with **IoT (Arduino, NodeMCU, Sensors, Automation), Wordpress**
 - 🗄️ Experienced with **Database Systems (MySQL, JSON storage)**
