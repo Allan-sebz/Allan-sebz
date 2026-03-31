@@ -125,7 +125,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🌾 Edge-Enabled Smart Irrigation System
 > An edge-computing based irrigation system designed for smallholder farmers.
