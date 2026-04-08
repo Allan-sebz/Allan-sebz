@@ -205,7 +205,7 @@
 
 ## 💡 Quote I Live By
 
-> “Build systems that solve real problems.”
+> “Build systems that solve real wolrd problems.”
 
 ---
 
