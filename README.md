@@ -203,7 +203,7 @@
 
 ---
 
-## 💡 Quote I Live By
+## 💡 Quote I Live By.
 
 > “Build systems that solve real wolrd problems.”
 
