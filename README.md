@@ -6,7 +6,7 @@
 </div>
 
 
-##  About Me
+##  About Me.
 
 - 💻 Passionate about **Software Development & System Design**
 - 🔐 Interested in **Cybersecurity & Threat Intelligence**
